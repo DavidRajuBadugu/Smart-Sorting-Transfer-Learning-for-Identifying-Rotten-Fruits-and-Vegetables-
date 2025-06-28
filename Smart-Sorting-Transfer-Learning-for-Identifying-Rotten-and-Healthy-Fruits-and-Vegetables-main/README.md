@@ -1,1 +1,0 @@
-# Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-and-Healthy-Fruits-and-Vegetables
